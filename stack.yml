@@ -1,0 +1,8 @@
+name: mailpit
+title: Mailpit
+icon: mailpit
+
+services:
+- name: mailpit
+  title: Mailpit
+  service: mailpit
