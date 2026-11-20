@@ -1,6 +1,7 @@
 name: mailpit
 title: Mailpit
 icon: mailpit
+category: platform
 docs: https://wodby.com/docs/2.0/stacks/catalog/mailpit/
 
 services:
